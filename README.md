@@ -7,7 +7,7 @@
 <a href="https://github.com/AjtakDan/recall-raid/releases/download/v1.0.0/Recall-Raid-Browser.zip"><img src="browser.svg" width="260" alt="Stáhnout pro prohlížeč"></a>
 </p>
 
-![Astrální observatoř, ve které probíhají souboje](observator.webp)
+![Úvodní obrazovka Recall Raid s výběrem soupeřů](recall-raid-window.png)
 
 ## První výprava
 
